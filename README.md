@@ -5,8 +5,7 @@
 
 > This script produces horizontal bar charts to compare aircraft performance specifications. Images of the aircraft are included, and the selected aircraft is highlighted.
 
-![SR22 Max Gross](https://github.com/mkudija/Aircraft-Spec-Charts/blob/master/charts/SR22-Max%20Gross%2C%20kg.png)
-
+![SR22 Max Gross](https://github.com/mkudija/Aircraft-Spec-Charts/blob/master/charts/SR22-Max%20Gross%2C%20kg.png) ![SR22 Range](https://github.com/mkudija/Aircraft-Spec-Charts/blob/master/charts/SR22-Range%2C%20nm.png)
 <hr> 
 
 # Requirements
